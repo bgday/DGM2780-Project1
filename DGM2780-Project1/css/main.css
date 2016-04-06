@@ -1,0 +1,67 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+	background-color:#444349;
+	background-image:url(../img/stardust.jpg);
+}
+
+.jumbotron {
+background-color:#444349;
+background-image:url(../img/hipsterReadingEdit.jpg);
+background-repeat:no-repeat;
+background-position:40%;
+margin-bottom:5em;
+}
+
+.jumbotron .container h1, p {
+	color: white;
+}
+
+.jumbotron .container p {
+	text-align:justify;
+}
+
+.jumbotron .container p .btn {
+	margin-bottom:13%;
+}
+
+div.container .row {
+	color:white;
+}
+
+.nav-wrapper {
+	min-height:50px;
+}
+
+nav.navbar {
+	width: 100%;
+	margin:0;
+	z-index:30;
+}
+
+form legend, label {
+	color:white;
+}
+
+div .carousel {
+	margin-bottom:5em;
+}
+
+div .row {
+	margin-bottom:5em;
+	text-align:justify;
+}
+
+div .panel-group {
+	margin-bottom:5em;
+}
+
+form {
+	margin-bottom:5em;
+}
+
+div.panel-group .panel .panel-heading .panel-title a .glyphicon {
+	margin-left:.4em;
+}
